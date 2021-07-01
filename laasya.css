@@ -1,0 +1,15 @@
+.laasya{
+	background-origin:border-box;
+	background-color: skyblue;
+	background-position: center;
+	background-size: 500px 500px;
+	background-attachment: fixed;
+	background-origin: content-box;
+	background-origin: padding-box;
+	border-style: ridge groove;
+	border-color: yellow green;
+	border-width: 50px 50px;
+	width: 500px;
+	position: center;
+}
+
